@@ -1,0 +1,275 @@
+TBounceMeAPP
+v7
+r0
+t359664370.769357
+cCheck dependencies
+cProcessInfoPlistFile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/Info.plist BounceMeAPP-Info.plist
+cCompileXIB /Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib
+cCompileXIB /Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib
+cCpResource build/Release-iphonesimulator/BounceMeAPP.app/bouningball.png bouningball.png
+cProcessPCH /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch.gch BounceMeAPP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/main.o /Users/keithlandry/Desktop/Code/BounceMeAPP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPAppDelegate.o /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPViewController.o /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP normal i386
+cGenerateDSYMFile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app.dSYM /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP
+cTouch /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib
+c000000004FBFD366000000000000A5E0
+t1337971558
+s42464
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPP_Prefix.pch
+c000000004FBBA10300000000000000BF
+t1337696515
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.h
+c000000004FBBA10300000000000001EA
+t1337696515
+s490
+i<UIKit/UIKit.h>
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m
+c000000004FBBA1030000000000000A9C
+t1337696515
+s2716
+i"BounceMeAPPAppDelegate.h"
+i"BounceMeAPPViewController.h"
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.h
+c000000004FBFC8CB0000000000000400
+t1337968843
+s1024
+i<UIKit/UIKit.h>
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m
+c000000004FBFD200000000000000192C
+t1337971200
+s6444
+i"BounceMeAPPViewController.h"
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib
+c000000004FBBA1030000000000004E59
+t1337696515
+s20057
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/bouningball.png
+c000000004FBBA19E0000000000000F12
+t1337696670
+s3858
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPP.LinkFileList
+c000000004FBFD37000000000000001C2
+t1337971568
+s450
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPAppDelegate.o
+t1337971570
+s51492
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPViewController.o
+t1337971570
+s56572
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/main.o
+t1337971570
+s6300
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app
+t1337971570
+s272
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app.dSYM
+t1337971570
+s102
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP
+t1337971570
+s27176
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPPViewController.nib
+t1337971569
+s3809
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/Info.plist
+t1337971568
+s596
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/MainWindow.nib
+t1337971569
+s1131
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/PkgInfo
+t1337971568
+s8
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/bouningball.png
+t1337971569
+s3858
+
+N/Users/keithlandry/Desktop/Code/BounceMeAPP/main.m
+c000000004FBBA1030000000000000160
+t1337696515
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch.gch
+t1337971570
+s15113424
+
+NBounceMeAPP-Info.plist
+c000000004FBEF25F000000000000036C
+t1337913951
+s876
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359664368#359664368#0(0"0(0#1#0"8604387104#0"0#
+
+CCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPAppDelegate.o /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s359664370.409131
+e359664370.558898
+r1
+xCompileC
+xbuild/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPAppDelegate.o
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m359664370#359664370#0(0"0(0#0#76"/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m8617417248#2152"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-generated-files.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-own-target-headers.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-all-target-headers.hmap -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-project-headers.hmap -F/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/include -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources/i386 -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch -c /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPAppDelegate.m -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPAppDelegate.o0#
+
+CCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPViewController.o /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s359664370.491829
+e359664370.717891
+r1
+xCompileC
+xbuild/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPViewController.o
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m359664370#359664370#0(0"0(0#0#79"/Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m8625701088#2158"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-generated-files.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-own-target-headers.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-all-target-headers.hmap -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-project-headers.hmap -F/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/include -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources/i386 -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch -c /Users/keithlandry/Desktop/Code/BounceMeAPP/Classes/BounceMeAPPViewController.m -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPPViewController.o0#
+
+CCompileC build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/main.o /Users/keithlandry/Desktop/Code/BounceMeAPP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s359664370.408075
+e359664370.491728
+r1
+xCompileC
+xbuild/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/main.o
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/keithlandry/Desktop/Code/BounceMeAPP/main.m359664370#359664370#0(0"0(0#0#50"/Users/keithlandry/Desktop/Code/BounceMeAPP/main.m8624416416#2108"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-generated-files.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-own-target-headers.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-all-target-headers.hmap -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-project-headers.hmap -F/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/include -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources/i386 -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch -c /Users/keithlandry/Desktop/Code/BounceMeAPP/main.m -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib
+s359664368.777885
+e359664369.471075
+r1
+xCompileXIB
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib
+lSLF07#2@40"CompileXIB BounceMeAPPViewController.xib359664368#359664369#0(0"0(0#0#73"/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib8619422368#621"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPPViewController.nib /Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPPViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib
+s359664368.777104
+e359664369.323287
+r1
+xCompileXIB
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib359664368#359664369#0(0"0(0#0#58"/Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib8619764352#591"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/MainWindow.nib /Users/keithlandry/Desktop/Code/BounceMeAPP/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/BounceMeAPP.app/bouningball.png bouningball.png
+s359664369.323380
+e359664369.365820
+r1
+xCpResource
+xbuild/Release-iphonesimulator/BounceMeAPP.app/bouningball.png
+xbouningball.png
+lSLF07#2@20"Copy bouningball.png359664369#359664369#0(0"0(0#0#59"/Users/keithlandry/Desktop/Code/BounceMeAPP/bouningball.png8625693824#515"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/keithlandry/Desktop/Code/BounceMeAPP/bouningball.png /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app0#
+
+CGenerateDSYMFile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app.dSYM /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP
+s359664370.746217
+e359664370.766356
+r1
+xGenerateDSYMFile
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app.dSYM
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP
+lSLF07#2@125"GenerateDSYMFile build/Release-iphonesimulator/BounceMeAPP.app.dSYM build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP359664370#359664370#0(0"0(0#0#101"/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP8617291264#414"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app.dSYM0#
+
+CLd /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP normal i386
+s359664370.717987
+e359664370.746113
+r1
+xLd
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP
+xnormal
+xi386
+lSLF07#2@106"Link /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP359664370#359664370#0(0"0(0#0#0"8618698816#953"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -F/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -filelist /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/Objects-normal/i386/BounceMeAPP.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/BounceMeAPP0#
+
+CProcessInfoPlistFile /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/Info.plist BounceMeAPP-Info.plist
+s359664368.769402
+e359664368.777005
+r1
+xProcessInfoPlistFile
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/Info.plist
+xBounceMeAPP-Info.plist
+lSLF07#2@30"Process BounceMeAPP-Info.plist359664368#359664368#0(0"0(0#0#66"/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPP-Info.plist8621937888#510"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BounceMeAPP-Info.plist -genpkginfo /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app/Info.plist0#
+
+CProcessPCH /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch.gch BounceMeAPP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s359664369.471193
+e359664370.407865
+r1
+xProcessPCH
+x/var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch.gch
+xBounceMeAPP_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BounceMeAPP_Prefix.pch359664369#359664370#0(0"0(0#0#66"/Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPP_Prefix.pch8622764672#1989"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-generated-files.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-own-target-headers.hmap -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-all-target-headers.hmap -iquote /Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/BounceMeAPP-project-headers.hmap -F/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/include -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources/i386 -I/Users/keithlandry/Desktop/Code/BounceMeAPP/build/BounceMeAPP.build/Release-iphonesimulator/BounceMeAPP.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/keithlandry/Desktop/Code/BounceMeAPP/BounceMeAPP_Prefix.pch -o /var/folders/ri/rivRX04cEBuT7vtyAbiQZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BounceMeAPP_Prefix-fbbvfxtiforwosecgczhenmtuxxk/BounceMeAPP_Prefix.pch.gch0#
+
+CTouch /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app
+s359664370.766449
+e359664370.769319
+r1
+xTouch
+x/Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app
+lSLF07#2@95"Touch /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app359664370#359664370#0(0"0(0#0#0"8615568672#294"    cd /Users/keithlandry/Desktop/Code/BounceMeAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/keithlandry/Desktop/Code/BounceMeAPP/build/Release-iphonesimulator/BounceMeAPP.app0#
+

@@ -1,0 +1,8 @@
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m: In function '-[BounceMeAPPViewController touchesBegan:withEvent:]':
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m:229: warning: unused variable 'ystring'
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m:228: warning: unused variable 'xstring'
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m: In function '-[BounceMeAPPViewController touchesMoved:withEvent:]':
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m:254: warning: unused variable 'ystring'
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m:253: warning: unused variable 'xstring'
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m: In function '-[BounceMeAPPViewController bannerView:didFailToReceiveAdWithError:]':
+/Users/keithlandry/Desktop/Code/iOS Apps/BounceMeAPP/Classes/BounceMeAPPViewController.m:319: warning: assignment makes pointer from integer without a cast
